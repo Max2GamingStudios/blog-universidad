@@ -1,2 +1,2 @@
 # blog-universidad
-proyecto de educación no es real
+proyecto de educación no es real 
